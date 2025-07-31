@@ -22,7 +22,7 @@ Este proyecto forma parte del challenge de back-end del programa **Oracle Next E
 
 ---
 
-## 🛠 Tecnologías utilizadas
+## Tecnologías utilizadas
 
 - Java 24
 - Spring Boot 3.5.3
